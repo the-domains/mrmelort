@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[MrMelort]]></title>
         <description><![CDATA[MrMelort]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mrmelort/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Oct 2015 18:51:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 18 Oct 2015 19:12:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mrmelort/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Benches Are the Coolest Part of Times Square's Redesign]]></title>
+            <description><![CDATA[<article><h1>The Benches Are the Coolest Part of Times Square's Redesign</h1><p>Times Square is undergoing a massive reconstruction that is, by Snøhetta principal Craig Dykers' estimation, about halfway done. Once completed at the end of 2016, the bowtie-shaped intersection in midtown New York City will include new above-ground pedestrian plazas and freshly minted sewer lines below. It will also, notably, include 11 new benches.</p><img src="http://www.wired.com/wp-content/uploads/2015/10/201001_NY_N3_publication-1200x630.jpg"></article>]]></description>
+            <link>http://www.wired.com/2015/10/the-benches-are-the-coolest-part-of-times-squares-redesign/</link>
+            <guid isPermaLink="false">576e1c22-fa1b-4427-bcc9-bba1150f645c</guid>
+            <pubDate>Sun, 18 Oct 2015 19:12:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined503f0009-2e62-4eb9-98c4-3045be18e23f/index.html</link>
+            <link>https://thegrid.ai/mrmelort/503f0009-2e62-4eb9-98c4-3045be18e23f/index.html</link>
             <guid isPermaLink="false">503f0009-2e62-4eb9-98c4-3045be18e23f</guid>
             <pubDate>Sun, 18 Oct 2015 18:51:11 GMT</pubDate>
         </item>
