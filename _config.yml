@@ -1,6 +1,6 @@
 name: MrMelort
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.8917430760338902
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.1961061309557408
+  brandStrength: 1
   lightness: 0.8563619845081121
   saturation: 0.5507630417123437
   rhythmicContrast: 0.25840604794211686
